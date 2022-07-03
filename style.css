@@ -28,8 +28,9 @@ body {
   height: 300px;
   width: 300px;
   position: relative;
-  top: -50px;
-  left: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
 }
 
 .img-container img {
